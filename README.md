@@ -81,7 +81,7 @@ This helps in analyzing how traffic lights and flow control affect congestion an
 
 ## 🧩 Sample Visualizations
 
-> (aa.jpg)
+![Adaptive Flow](aa.jpg)
 
 
 ## 📌 Use Cases
